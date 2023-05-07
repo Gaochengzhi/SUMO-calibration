@@ -1,0 +1,15 @@
+sigma; 0.5
+tau; normal(2.1,1.6);[0.5,8.1]
+length; normal(14.6,3.9); [4,23.2]
+accel; normal(1.2,2.0); [1,1.4]
+decel; normal(3,2); [2.6,3.4]
+emergencyDecel; normal(7,0.2); [5,9]
+maxSpeed; normal(27,1.9); [26,28]
+vClass; truck
+carFollowModel; EIDM
+lcStrategic; 500
+lcKeepRight; 0
+lcOvertakeRight; 1
+lcCooperative; 1
+lcSpeedGainRight; 1
+lcLookaheadLeft; 250
