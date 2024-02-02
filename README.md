@@ -3,7 +3,7 @@
 
 ![](https://camo.githubusercontent.com/1c85ced3eb86985d0e7c48171d8243c2d01bfaf3be0c60fcdb7f536076a04c48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d332e372d3337373641422e7376673f6c6f676f3d707974686f6e) ![](./assets/Release-Ver1.0.0-blue-20230505160103206.svg)
 
-**Official calibration process** in the paper *[Stability Analysis and Trajectory Study of Mixed Traffic Flow Integrated with Heterogenous CACC Platoons]()(not yet publish)* 
+**Official calibration process** in the paper *[Learning from Trajectories: How Heterogeneous CACC Platoons Affect the Traffic Flow in Highway Merging Area]()(not yet publish)* 
 
 **Features**:
 
