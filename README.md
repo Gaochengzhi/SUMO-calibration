@@ -3,7 +3,7 @@
 
 ![](https://camo.githubusercontent.com/1c85ced3eb86985d0e7c48171d8243c2d01bfaf3be0c60fcdb7f536076a04c48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d332e372d3337373641422e7376673f6c6f676f3d707974686f6e) ![](./assets/Release-Ver1.0.0-blue-20230505160103206.svg)
 
-**Official calibration process** in the paper *[Learning from Trajectories: How Heterogeneous CACC Platoons Affect the Traffic Flow in Highway Merging Area]()(not yet publish)* 
+**Official calibration process** in the paper *[Learning from Trajectories: How Heterogeneous CACC Platoons Affect the Traffic Flow in Highway Merging Area](https://ieeexplore.ieee.org/document/10572366)* 
 
 **Features**:
 
@@ -116,3 +116,17 @@ Model parameters are in the `cfg/veh_config` file, **after you change it, you mu
 
 🚗🚕🚙🚚🚛🚜🚛🚚🚙🚕🚗
 
+cite us:
+
+```
+@ARTICLE{10572366,
+  author={Liu, Qingchao and Gao, Chengzhi and Wang, Hai and Cai, Yingfeng and Chen, Long and Lv, Chen},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Learning From Trajectories: How Heterogeneous CACC Platoons Affect the Traffic Flow in Highway Merging Area}, 
+  year={2024},
+  volume={73},
+  number={11},
+  pages={16212-16224},
+  keywords={Vehicles;Trajectory;Stability analysis;Numerical stability;Merging;Vehicle dynamics;Throughput;Cooperative adaptive cruise control;microscopic simulation;mixed traffic;trajectory analysis},
+  doi={10.1109/TVT.2024.3419143}}
+```
